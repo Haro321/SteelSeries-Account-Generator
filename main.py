@@ -77,7 +77,7 @@ class STEELSERIES:
             with open("accounts.json","w") as file:
                 json.dump(oldData, file , indent=4)
         except Exception as e:
-            print("error in save_data :", e)
+            print(Fore.RED, "error in save_data :", e)
             
     def run(self):
         try:
@@ -87,7 +87,7 @@ class STEELSERIES:
             else:
                 print(Fore.RED , result , Fore.RESET)
         except Exception as e:
-            print(Fore.RED + "error in run :", e , Fore.RESET)
+            print(Fore.RED , "error in run :", e , Fore.RESET)
                 
     def generate_accounts(self, accountsNumber : int = 10) -> None:
         for i in range(accountsNumber):
