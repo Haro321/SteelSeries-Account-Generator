@@ -13,7 +13,7 @@ This Python script demonstrates how to perform HTTP POST requests to register ne
 - Python 3.6 or higher
 
 ## Installation
-s
+
 **Clone the repository:**
 
    ```bash
