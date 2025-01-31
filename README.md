@@ -9,7 +9,7 @@ This Python script demonstrates how to perform HTTP POST requests to register ne
 - Saving account data locally in a JSON file.
 
 ## Requirements
-
+- SteelSeries app must be running
 - Python 3.6 or higher
 
 ## Installation
