@@ -1,0 +1,20 @@
+[
+    {
+        "user": {
+            "id": 31,
+            "name": "",
+            "username": "QuixoticAct12",
+            "discriminator": "8045",
+            "isUsernameChanged": false,
+            "avatarSmallUrl": "https://accountscdn.steelseries.com/avatars/thumbnails/c79b6c3e-eb9d-451e-90c2-1a26e044fb64.png",
+            "email": "vnncpxe8d@gmail.com",
+            "loggedIn": true,
+            "loginSkipped": false,
+            "uuid": "abb2daf8-c82a-4e45-8259-c3303ff57a21",
+            "applicationAccess": [],
+            "createdAt": "2025-01-31T23:09:38Z",
+            "loggedInWithoutRefreshToken": false,
+            "password": "bUGOt5QJ1"
+        }
+    }
+]
